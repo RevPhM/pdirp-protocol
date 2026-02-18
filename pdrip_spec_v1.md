@@ -1,0 +1,10 @@
+pdirp_spec_v1
+
+SHA-256:
+bc81b70dd58f378a498766b95fbe722780340e63f56642eac7594a3691f02534
+
+Anchored at:
+2026-02-18T00:00:00Z
+
+This commit serves as a public timestamp anchor of the exact specification file.
+EOF
